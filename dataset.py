@@ -1,3 +1,4 @@
+import utils.session
 from torch.utils.data import Dataset
 import torch
 from PIL import Image
